@@ -1,0 +1,11 @@
+#form{
+	text-align:left;
+	border:solid 5px;
+	padding:50px;
+	background-color:#f8f9fa;
+}
+
+p{
+	font-size:25px;
+	color:blue;
+}
